@@ -39,7 +39,7 @@ I'm a backend-focused software engineer with a strong interest in AI systems, pr
 
 ### 🔧 What I Build
 
-- 🧠 **Multi-agent Systems** with ReAct, tool use, and memory
+- 🧠 **Multi-agent Systems** with various agent patterns like ReAct, tool use, and memory
 - 📦 **Modular Microservices** for diagnostics and log processing
 - 🤖 **RAG Pipelines** (Retrieval-Augmented Generation) using structured knowledge
 - 🔁 **MCP-based agent-tool communication** with shared state
